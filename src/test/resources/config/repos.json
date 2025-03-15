@@ -1,0 +1,7 @@
+{
+  "repositories": {
+    "your-username/repo1": "/path/to/repo1",
+    "your-username/repo2": "/path/to/repo2"
+  },
+  "branch": "main"
+}
