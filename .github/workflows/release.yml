@@ -13,7 +13,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      # Set up Java and GraalVM
+      # Set up Java and GraalVM (Mandrel)
       - name: Set up GraalVM (Java 21)
         uses: graalvm/setup-graalvm@v1
         with:
